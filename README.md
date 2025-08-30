@@ -7,6 +7,11 @@
 ---
 
 ## Event Overview
+This was the very first offline Meetup hosted by Dev Korea,
+bringing together developers, designers, and planners who communicate in English to freely network and exchange ideas.
+In particular, aligned with Supabase Launch Week 15, there was a presentation showcasing real-world use cases built with Supabase.
+
+## Event Overview (Korean)
 Dev Korea의 첫 번째 오프라인 Meetup이었고,
 영어로 소통하는 개발자, 디자이너, 기획자들이 모여 자유롭게 교류하는 자리였습니다.  
 특히 Supabase Launch Week 15에 맞춰 Supabase를 활용한 실제 빌드 사례 발표가 있었습니다.
